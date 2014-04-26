@@ -1,7 +1,7 @@
 Covert-Channel
 ==============
 
-Covert Channel for non-malicious, educational purposes.
+Covert Channel developed in Ruby for non-malicious, educational purposes.
 
 Uses UDP protocol.
 This application will create a channel that will allow the client computer communicate with the target computer running the backdoor.
